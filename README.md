@@ -19,7 +19,7 @@ To develop a lightweight and real-time classification system that:
 
 Collected **580+ images** from local stores like Tesco, Aldi, Lidl, and Dunnes in Dublin. Below are a few examples of nutrition label images used:
 
-![Sample Nutrition Labels](./healthy_food_sample_preview.png)
+![Sample Nutrition Labels](./Aldi_chocolate_flavoured_icecream.jpg)
 
 ---
 
