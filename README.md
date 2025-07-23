@@ -21,6 +21,8 @@ Collected **580+ images** from local stores like Tesco, Aldi, Lidl, and Dunnes i
 
 ![Sample Nutrition Labels](./Aldi_chocolate_flavoured_icecream.jpg)
 
+![Sample Nutrition Labels](./Aldi_Frozen_PlantBased_Tikki.jpg)
+
 ---
 
 ## 🧠 Methodology
